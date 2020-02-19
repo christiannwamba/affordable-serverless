@@ -1,3 +1,10 @@
+# 0. Affordable Serverless
+
+1. [Monolith cost](https://azure.microsoft.com/en-us/pricing/calculator?WT.mc_id=affordableserverless-workshop-chnwamba)
+2. [Serverless cost](https://azure.microsoft.com/en-us/pricing/calculator?WT.mc_id=affordableserverless-workshop-chnwamba) and [serverless cost breakdown](https://dev.to/azure/is-serverless-really-as-cheap-as-everyone-claims-4i9n)
+
+
+
 # 1. Setup
 
 ## 1.1 Create Azure Account
