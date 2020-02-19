@@ -3,10 +3,7 @@
 ## 1.1 Create Azure Account
 
 
-1. Create account
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GWT2R1C_uUU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+1. Create [Azure account](https://azure.microsoft.com/en-us/free/?WT.mc_id=affordableserverless-workshop-chnwamba)
 
 1. Create account with Azure Passes
     1. Go to [Azure Pass page](https://www.microsoftazurepass.com)
@@ -14,7 +11,7 @@
     3. Enter the Pass you have been issued
 
 
-2. [Install CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest)
+2. [Install CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest&WT.mc_id=affordableserverless-workshop-chnwamba)
 
 
 3. Login in from CLI
@@ -228,8 +225,8 @@ func azure functionapp publish <prod func name>
 
 ## 1.5 Resources
 
-- [Create your first function from the command line using Azure CLI](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-azure-function-azure-cli)
-- [Function CLI Commands](https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local)
+- [Create your first function from the command line using Azure CLI](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-azure-function-azure-cli?WT.mc_id=affordableserverless-workshop-chnwamba)
+- [Function CLI Commands](https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local?WT.mc_id=affordableserverless-workshop-chnwamba)
 - [Monolith vs Microservices](https://articles.microservices.com/monolithic-vs-microservices-architecture-5c4848858f59?gi=29dd1f7f7244)
 - [Is Serverless really as cheap as everyone claims?](https://dev.to/azure/is-serverless-really-as-cheap-as-everyone-claims-4i9n)
 
@@ -415,22 +412,22 @@ func start
 
 ## 3.4 Resources
 
-- [Function Timer Trigger](https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-timer?tabs=javascript)
-- [Function NCRON](https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-timer?tabs=javascript#ncrontab-expressions)
-- [Function Twilio Binding](https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-twilio)
-- [Function SendGrid Binding](https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-sendgrid)
+- [Function Timer Trigger](https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-timer?WT.mc_id=affordableserverless-workshop-chnwamba)
+- [Function NCRON](https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-timer?WT.mc_id=affordableserverless-workshop-chnwamba)
+- [Function Twilio Binding](https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-twilio?WT.mc_id=affordableserverless-workshop-chnwamba)
+- [Function SendGrid Binding](https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-sendgrid?WT.mc_id=affordableserverless-workshop-chnwamba)
 
 
-# 3. CRUD with Serverless
+# 3. Stateful Serverless
 
-1. First install VS Code
+1. First install [VS Code](https://code.visualstudio.com?WT.mc_id=affordableserverless-workshop-chnwamba)
 2. Then install Azure Functions VS Code extension
 
-[How to (Scotch.io)](https://scotch.io/tutorials/crud-with-azure-serverless-functions)
+[How to (Dev.to)](https://dev.to/azure/stateful-serverless-with-durable-functions-2jff)
 
 # 4. Less Code with Logic Apps
 
 
-# 5. Stateful Serverless
+# 5. CRUD with Serverless
 
-[How to (Dev.to)](https://dev.to/azure/stateful-serverless-with-durable-functions-2jff)
+[How to (Scotch.io)](https://scotch.io/tutorials/crud-with-azure-serverless-functions)
