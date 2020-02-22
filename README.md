@@ -342,7 +342,7 @@ Give it 30 seconds to start logging the messages:
 6. Click Create API Key if you don’t have one
 7. Copy key
 
-# 3.3 Send Email with Binding
+## 2.3 Send Email with Binding
 
 1. Update `local.settings.json` with Send Grid API Key:
 
@@ -417,7 +417,7 @@ Update `<FROM EMAIL>` and `<TO EMAIL>` with your credentials.
 func start
 ```
 
-## 3.4 Resources
+## 2.4 Resources
 
 - [Function Timer Trigger](https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-timer?WT.mc_id=affordableserverless-workshop-chnwamba)
 - [Function NCRON](https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-timer?WT.mc_id=affordableserverless-workshop-chnwamba)
@@ -432,9 +432,7 @@ func start
 
 [How to (Dev.to)](https://dev.to/azure/stateful-serverless-with-durable-functions-2jff)
 
-# 4. Less Code with Logic Apps
 
-
-# 5. CRUD with Serverless
+# 4. CRUD with Serverless
 
 [How to (Scotch.io)](https://scotch.io/tutorials/crud-with-azure-serverless-functions)
