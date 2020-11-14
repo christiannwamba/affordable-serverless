@@ -1,8 +1,8 @@
 # 0. Affordable Serverless
 
 1. What is serverless?
-2. [Monolith cost](https://azure.microsoft.com/en-us/pricing/calculator?WT.mc_id=affordableserverless-workshop-chnwamba)
-3. [Serverless cost](https://azure.microsoft.com/en-us/pricing/calculator?WT.mc_id=affordableserverless-workshop-chnwamba) and [serverless cost breakdown](https://dev.to/azure/is-serverless-really-as-cheap-as-everyone-claims-4i9n)
+2. [Monolith cost](https://azure.microsoft.com/pricing/calculator?WT.mc_id=startup-0000-chnwamba)
+3. [Serverless cost](https://azure.microsoft.com/pricing/calculator?WT.mc_id=startup-0000-chnwamba) and [serverless cost breakdown](https://dev.to/azure/is-serverless-really-as-cheap-as-everyone-claims-4i9n)
 
 
 
@@ -11,7 +11,7 @@
 ## 1.1 Create Azure Account
 
 
-1. Create [Azure account](https://azure.microsoft.com/en-us/free/?WT.mc_id=affordableserverless-workshop-chnwamba)
+1. Create [Azure account](https://azure.microsoft.com/free/?WT.mc_id=startup-0000-chnwamba)
 
 1. Create account with Azure Passes
     1. Go to [Azure Pass page](https://www.microsoftazurepass.com)
@@ -19,7 +19,7 @@
     3. Enter the Pass you have been issued
 
 
-2. [Install CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest&WT.mc_id=affordableserverless-workshop-chnwamba)
+2. [Install CLI](https://docs.microsoft.com/cli/azure/install-azure-cli?view=azure-cli-latest&WT.mc_id=startup-0000-chnwamba)
 
 
 3. Login in from CLI
@@ -233,8 +233,8 @@ func azure functionapp publish <prod func name>
 
 ## 1.5 Resources
 
-- [Create your first function from the command line using Azure CLI](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-azure-function-azure-cli?WT.mc_id=affordableserverless-workshop-chnwamba)
-- [Function CLI Commands](https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local?WT.mc_id=affordableserverless-workshop-chnwamba)
+- [Create your first function from the command line using Azure CLI](https://docs.microsoft.com/azure/azure-functions/functions-create-first-azure-function-azure-cli?WT.mc_id=startup-0000-chnwamba)
+- [Function CLI Commands](https://docs.microsoft.com/azure/azure-functions/functions-run-local?WT.mc_id=startup-0000-chnwamba)
 - [Monolith vs Microservices](https://articles.microservices.com/monolithic-vs-microservices-architecture-5c4848858f59?gi=29dd1f7f7244)
 - [Is Serverless really as cheap as everyone claims?](https://dev.to/azure/is-serverless-really-as-cheap-as-everyone-claims-4i9n)
 
@@ -420,15 +420,15 @@ func start
 
 ## 2.4 Resources
 
-- [Function Timer Trigger](https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-timer?WT.mc_id=affordableserverless-workshop-chnwamba)
-- [Function NCRON](https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-timer?WT.mc_id=affordableserverless-workshop-chnwamba)
-- [Function Twilio Binding](https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-twilio?WT.mc_id=affordableserverless-workshop-chnwamba)
-- [Function SendGrid Binding](https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-sendgrid?WT.mc_id=affordableserverless-workshop-chnwamba)
+- [Function Timer Trigger](https://docs.microsoft.com/azure/azure-functions/functions-bindings-timer?WT.mc_id=startup-0000-chnwamba)
+- [Function NCRON](https://docs.microsoft.com/azure/azure-functions/functions-bindings-timer?WT.mc_id=startup-0000-chnwamba)
+- [Function Twilio Binding](https://docs.microsoft.com/azure/azure-functions/functions-bindings-twilio?WT.mc_id=startup-0000-chnwamba)
+- [Function SendGrid Binding](https://docs.microsoft.com/azure/azure-functions/functions-bindings-sendgrid?WT.mc_id=startup-0000-chnwamba)
 
 
 # 3. Stateful Serverless
 
-1. First install [VS Code](https://code.visualstudio.com?WT.mc_id=affordableserverless-workshop-chnwamba)
+1. First install [VS Code](https://code.visualstudio.com/?WT.mc_id=startup-0000-chnwamba)
 2. Then install Azure Functions VS Code extension
 
 [How to (Dev.to)](https://dev.to/azure/stateful-serverless-with-durable-functions-2jff)
